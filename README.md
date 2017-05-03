@@ -1,13 +1,14 @@
 # Tech Basics - Assignment 1
 
-## Navigating the Linux Filesystem
 There is a multi cuisine hotel which takes order on phone and then orders are recorded in file named order.txt
+
+### Navigating the Linux Filesystem
 
 * Change directory to folder fsdse-techbasics-assignment-1
   - List down what there in folder
   - List down hidden files in folder
 
-## Working With Files and Directories
+### Working With Files and Directories
 
 * Check what kind of file is orders.txt
 * Display the content of file orders.txt
