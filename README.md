@@ -6,11 +6,11 @@ There is a multi cuisine hotel which takes order on phone and then orders are re
 * Change directory to folder fsdse-techbasics-assignment-1
   - List down what there in folder
   - List down hidden files in folder
-* Check what kind of file is orders.txt
-* Display the content of file orders.txt
 
 ## Working With Files and Directories
 
+* Check what kind of file is orders.txt
+* Display the content of file orders.txt
 * Let's explore order.txt more and try to solve query below using `head`, `tail` commands
   - Get first 10 orders
   - Get last 10 orders
