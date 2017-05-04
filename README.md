@@ -27,5 +27,8 @@ There is a multi cuisine hotel which takes order on phone and then orders are re
 * Lets add below orders to the list using nano command
   - American Pizza
   - Italian Pizza
-  
-Now again repeat all above exercises with order.txt using `head` and `tail` commands. Result will be different this time as new two orders are added to list using `nano` command.
+* Now again repeat all above exercises with order.txt using `head` and `tail` commands. Result will be different this time as new two orders are added to list using `nano` command.
+* Locate the word "Chinese" in order.txt file using command line.
+* Locate the word "Fish" in order.txt file and highlight using color using command line.
+* Locate the word "Salad" in order.txt file with the line number where Salad is present using command line.
+* Locate the word "rice" in order.txt file with and make sure it's case-insensitive match.
