@@ -1,3 +1,5 @@
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
+
 # Tech Basics - Assignment 1
 
 There is a multi cuisine hotel which takes order on phone and then orders are recorded in file named order.txt
