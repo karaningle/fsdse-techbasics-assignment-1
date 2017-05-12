@@ -1,8 +1,8 @@
 ### Navigating The Linux Filesystem
 
 * Change directory to folder fsdse-techbasics-assignment-1
-  - List down what there in folder
-  - List down hidden files in folder
+  - List down what there in folder [ ls -l ]
+  - List down hidden files in folder [ ls -la ]
 
 ### Working With Files And Directories
 
