@@ -28,5 +28,3 @@ The order number 27 is for Dim Sum
 The order number 28 is for Hot Dog
 The order number 29 is for Swiss Fondue
 The order number 30 is for Fish Fry
-The order number 31 is for American Pizza
-The order number 32 is for Italian Pizza
